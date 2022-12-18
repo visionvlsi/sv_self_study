@@ -6,8 +6,8 @@
 
 
 Ex1:
-
-package definitions;
+<code>
+ package definitions;
 
 	parameter VERSION="1.1"
 	
@@ -25,3 +25,4 @@ package definitions;
 	endfunction
 	
 	endpackage
+	</code>
