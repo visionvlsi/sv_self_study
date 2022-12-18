@@ -7,7 +7,7 @@
 
 Ex1:
 
-	<p>
+	
 	 package definitions;
 
 	parameter VERSION="1.1"
@@ -26,4 +26,3 @@ Ex1:
 	endfunction
 	
 	endpackage
-	</p>
