@@ -6,7 +6,7 @@
 
 
 # Ex1:
-
+'''
 	
 	 package definitions;
 
@@ -26,9 +26,10 @@
 	endfunction
 	
 	endpackage
-	
+'''
 # Ex2:
 
+'''
 module ALU
 
 (input definitions::instruction_t IW,
@@ -51,9 +52,10 @@ endcase
 end
 
 endmodule
-
+'''
 # Ex3:
 
+'''
 module ALU
 
 (input definitions::instruction_t IW,
@@ -88,9 +90,10 @@ endcase
 end
 
 endmodule
-
+'''
 # Ex4:
 
+'''
 module ALU
 
 (input definitions::instruction_t IW,
@@ -128,7 +131,7 @@ endcase
 end
 
 endmodule
-
+'''
 # Ex5:
 
 ![image](https://user-images.githubusercontent.com/98731221/208313245-37d5ca31-4d6e-46e6-94ae-63e31e6a8770.png)
