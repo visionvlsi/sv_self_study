@@ -6,8 +6,9 @@
 
 
 Ex1:
-<code>
- package definitions;
+
+	<code>
+	 package definitions;
 
 	parameter VERSION="1.1"
 	
