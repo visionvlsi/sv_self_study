@@ -87,3 +87,6 @@ endmodule
 ```
 
 #### To compile vlog +define+definitions .\definitions.sv .\ALU.sv .\pkg_in_unit.sv
+
+![image](https://user-images.githubusercontent.com/98731221/208376452-f1807e46-1b34-4d46-a8fd-a52f9c4573a6.png)
+
