@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/98731221/208306102-d295e4ab-8db2-4843-83f4-77eeddfa8dba.png)
 
 
-# Ex1:
+# Ex1: definitions.sv
 ```
 	
 	 package definitions;
@@ -27,7 +27,7 @@
 	
 	endpackage
 ```
-# Ex2:
+# Ex2: scope_resol_1.sv \[using scope resolution ::\]
 
 ```
 module ALU
@@ -53,7 +53,7 @@ end
 
 endmodule
 ```
-# Ex3:
+# Ex3: scope_resol_2.sv \[using import\]
 
 ```
 module ALU
@@ -91,7 +91,7 @@ end
 
 endmodule
 ```
-# Ex4:
+# Ex4:scope_resol_3.sv \[using wild card \*\]
 ```
 module ALU
 
