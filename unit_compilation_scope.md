@@ -14,9 +14,12 @@
 
 ![image](https://user-images.githubusercontent.com/98731221/208344826-3fb7f7c8-4cd8-4de4-9b81-18130044d6cb.png)
 
+![image](https://user-images.githubusercontent.com/98731221/208345679-cc2b5e7a-69dc-4740-ae07-56fb0cac31bd.png)
 
 
-## Ex1:
+
+
+## Ex1: mod1.sv
 
 ```
 function void print;
@@ -39,7 +42,7 @@ module mod1;
  endmodule
 ```
 
-## Ex2:
+## Ex2: mod2.sv
 ```
 function void print;
 	$display($time, "::comp2");
