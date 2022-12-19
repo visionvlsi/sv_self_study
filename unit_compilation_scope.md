@@ -4,6 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/98731221/208313936-77277a0b-5ae1-4332-b506-a2dde5421405.png)
 
+![image](https://user-images.githubusercontent.com/98731221/208338191-1226c975-9d05-4624-8876-f6b7f7cdb496.png)
+
+
 
 ## Ex1:
 
