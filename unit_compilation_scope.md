@@ -28,7 +28,7 @@ module mod1;
  endmodule
 ```
 
-Ex2:
+## Ex2:
 ```
 function void print;
 	$display($time, "::comp2");
