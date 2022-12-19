@@ -16,8 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/98731221/208345887-1e9e37fa-f4a3-45e4-9ee6-75499ae209cb.png)
 
-
-
+![image](https://user-images.githubusercontent.com/98731221/208346832-9be92235-ee40-451b-9184-4d012d158057.png)
 
 
 ## Ex1: mod1.sv
