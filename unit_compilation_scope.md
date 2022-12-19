@@ -10,6 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/98731221/208344336-fc7a6568-bb68-47f6-b637-4b9991e1f293.png)
 
+![image](https://user-images.githubusercontent.com/98731221/208344447-3b063b4c-1788-4cea-abbe-bedbb497de19.png)
 
 
 ## Ex1:
